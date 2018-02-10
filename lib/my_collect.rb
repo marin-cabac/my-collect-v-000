@@ -3,7 +3,6 @@ def my_collect(r)
   v=[]
   while i<r.length
    v<<r[i]
- end 
- v 
+ end
+ v
  end     
-
